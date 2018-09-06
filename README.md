@@ -4,7 +4,7 @@
 A project to recode, restructure and update Ion server, an adaptation of LUNI server.
 Project by Craftsmashbuild. 
 
-Twitter: https://twitter.com/craftsmashbuild
+Twitter: https://twitter.com/plasma_node
 
 Discord: https://discord.gg/hHfhTCh
 
